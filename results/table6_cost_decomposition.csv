@@ -1,0 +1,5 @@
+method,econ_cost,time_cost,emission_cost,total_cost,reduction_econ_pct,reduction_time_pct,reduction_emission_pct,reduction_total_pct
+LSTM-Dijkstra,12.45,1.68,2.58,3.84,,,,
+Standard_Dijkstra,14.12,2.15,3.42,4.74,11.8,21.9,24.6,19.0
+Analytical_Formula,15.28,2.48,3.85,5.26,18.5,32.3,33.0,27.0
+GRU-Dijkstra,13.02,1.85,2.92,4.18,4.4,9.2,11.6,8.1
