@@ -1,0 +1,4 @@
+station,scenario_1_evs,scenario_1_pct,scenario_2_evs,scenario_2_pct,scenario_3_evs,scenario_3_pct
+A_Urban,22,44,18,36,15,30
+B_Highway,20,40,16,32,12,24
+C_Remote,8,16,16,32,23,46
