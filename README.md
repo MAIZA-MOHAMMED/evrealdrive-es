@@ -11,7 +11,6 @@
 
 A comprehensive framework for State-of-Charge (SoC) prediction and charging route optimization of electric vehicles using LSTM-based deep learning coupled with deterministic shortest-path search.
 
-📚 Journal: Turkish Journal of Mathematics and Computer Science (TJMCS)
 ---
 
 ## 📋 Abstract
