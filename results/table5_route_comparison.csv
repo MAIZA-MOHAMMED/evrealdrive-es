@@ -1,0 +1,17 @@
+weights_lambda,weights_theta,weights_omega,method,optimal_cost,query_time_ms,lstm_reduction_pct
+0.72,0.14,0.14,LSTM-Dijkstra,8.45,185,
+0.72,0.14,0.14,Standard_Dijkstra,9.52,120,11.2
+0.72,0.14,0.14,Analytical_Formula,10.28,95,17.8
+0.72,0.14,0.14,GRU-Dijkstra,8.92,210,5.3
+0.45,0.45,0.10,LSTM-Dijkstra,5.92,200,
+0.45,0.45,0.10,Standard_Dijkstra,6.68,115,11.4
+0.45,0.45,0.10,Analytical_Formula,7.15,90,17.2
+0.45,0.45,0.10,GRU-Dijkstra,6.24,195,5.1
+0.33,0.33,0.33,LSTM-Dijkstra,5.18,220,
+0.33,0.33,0.33,Standard_Dijkstra,5.84,110,11.3
+0.33,0.33,0.33,Analytical_Formula,6.32,85,18.0
+0.33,0.33,0.33,GRU-Dijkstra,5.45,205,5.0
+0.14,0.14,0.72,LSTM-Dijkstra,3.84,210,
+0.14,0.14,0.72,Standard_Dijkstra,4.74,118,19.0
+0.14,0.14,0.72,Analytical_Formula,5.26,92,27.0
+0.14,0.14,0.72,GRU-Dijkstra,4.18,200,8.1
