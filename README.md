@@ -7,11 +7,11 @@
 
 🧬 **LSTM-Driven Deep Learning for Real-Time Electric Vehicle Charging Route Optimization: A Hybrid Prediction-Optimization Framework**
 
-A comprehensive framework for State-of-Charge (SoC) prediction and charging route optimization of electric vehicles using LSTM-based deep learning coupled with deterministic shortest-path search.
-
-👥 **Authors**: Dr. Chahira CHERIF, Dr. Mohammed MAIZA, Prof. Samira CHOURAQUI, Prof. Abdelmalik TALEB-AHMED
 
 📄 **Paper**: *LSTM-Driven Deep Learning for Real-Time Electric Vehicle Charging Route Optimization: A Hybrid Prediction-Optimization Framework*
+👥 **Authors**: Dr. Chahira CHERIF, Dr. Mohammed MAIZA, Prof. Samira CHOURAQUI, Prof. Abdelmalik TALEB-AHMED
+
+A comprehensive framework for State-of-Charge (SoC) prediction and charging route optimization of electric vehicles using LSTM-based deep learning coupled with deterministic shortest-path search.
 
 📚 Journal: Turkish Journal of Mathematics and Computer Science (TJMCS)
 ---
