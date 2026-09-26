@@ -92,7 +92,7 @@ This paper introduces a hybrid deep learning framework that integrates LSTM-base
 | **Sensors** | OBD-II (1 Hz) + GPS (1 Hz) + HERE Traffic + OpenWeatherMap |
 | **Trips** | 1,847 |
 | **Input sequences** | 92,350 (L = 50 segments each) |
-| **Total distance** | ~412,000 km |
+| **Total distance** | ~166,000 km |
 | **Conditions** | Urban 38%, Suburban 27%, Highway 35% |
 | **Split** | 80% train / 10% val / 10% test, by trip, stratified |
 
