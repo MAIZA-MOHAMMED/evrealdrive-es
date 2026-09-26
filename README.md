@@ -43,7 +43,7 @@ This paper introduces a hybrid deep learning framework that integrates LSTM-base
 | Transformer | 39.08 | 28.45 | 0.9015 |
 | **LSTM (Ours)** | **36.83** | **26.91** | **0.9374** |
 
-*Per-segment RMSE is 0.53 percentage points (pp); per-trip cumulative RMSE is 36.83 Wh.*
+*All metrics above are for the per-trip cumulative SoC drop, in Wh (see Figure 3 and Table 1 of the paper).*
 
 ### Route Optimization Performance (Composite Cost)
 
