@@ -39,6 +39,3 @@ Range AWD vehicles driving across Spain over a 24-month period.
 | Speed `v_s` (km/h) | OBD-II | 1 Hz -> per segment |
 | SoC (target) | Tesla BMS via OBD-II | 1 Hz -> per segment |
 
----
-
-## 2. File Layout
