@@ -25,7 +25,7 @@ Range AWD vehicles driving across Spain over a 24-month period.
 | **Sensors** | OBD-II dongle (1 Hz) + GPS logger (1 Hz) + HERE Traffic API + OpenWeatherMap API |
 | **Trips** | 1,847 |
 | **Input sequences** | 92,350 (each of length L = 50 segments) |
-| **Total distance** | ~412,000 km |
+| **Total distance** | ~166,000 km|
 | **Conditions** | Urban 38%, Suburban 27%, Highway 35% |
 
 ### Feature sources
